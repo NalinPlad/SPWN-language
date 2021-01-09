@@ -8,7 +8,7 @@ coming soon
 
 # Documentation
 
-coming soon ish
+The incomplete docs are located at https://spu7nix.net/spwn/#/
 
 # Todo before release:
 
